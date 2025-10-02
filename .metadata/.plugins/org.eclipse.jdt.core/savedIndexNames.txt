@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\KDW_L\Desktop\Proyecto final algoritmia\.metadata\.plugins\org.eclipse.jdt.core
+147983937.index
+798734745.index
